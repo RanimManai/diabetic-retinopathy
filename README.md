@@ -21,7 +21,8 @@ This project involves the detection of **diabetic retinopathy** using artificial
 
 ## Dataset
 
-The dataset used in this project consists of retinal images categorized into different stages of diabetic retinopathy. Data preprocessing techniques were applied to ensure uniformity and enhance model performance.
+The **APTOS 2019 Blindness Detection** dataset was used for this project. It consists of retinal images categorized into five stages of diabetic retinopathy. Data preprocessing techniques, including resizing and normalization, were applied to ensure uniformity and enhance model performance.
+
 
 ## Technologies Used
 
